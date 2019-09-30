@@ -1,5 +1,5 @@
- ## Mark down is a way to style text on the web
-# markdown char 
+ ##Mark down is a way to style text on the web
+#markdown char 
 - Headers
 1. # H1
 2. ## H2
