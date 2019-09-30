@@ -1,4 +1,4 @@
- #Mark down is a way to style text on the web
+ # Mark down is a way to style text on the web
 ## markdown char 
 - Headers
 1. # H1
@@ -13,4 +13,4 @@
 4. And another item.
 *Links*
  such as : [I'm an inline-style link]
-![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwidx5Kx9ffkAhXIIlAKHU6SDYcQjhx6BAgBEAI&url=https%3A%2F%2Fblog.knoldus.com%2Flearning-markdown%2F&psig=AOvVaw2n8YHcZREWXkjGNllflBAS&ust=1569910795231649)
+![] (https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwidx5Kx9ffkAhXIIlAKHU6SDYcQjhx6BAgBEAI&url=https%3A%2F%2Fblog.knoldus.com%2Flearning-markdown%2F&psig=AOvVaw2n8YHcZREWXkjGNllflBAS&ust=1569910795231649)
