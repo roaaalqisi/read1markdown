@@ -1,4 +1,4 @@
-Markdown is a lightweight markup language with plain text formatting syntax.
+ #Mark down is a way to style text on the web
 ## markdown char 
 - Headers
 1. # H1
@@ -13,8 +13,4 @@ Markdown is a lightweight markup language with plain text formatting syntax.
 4. And another item.
 *Links*
  such as : [I'm an inline-style link]
-Images
-Here's our logo (hover to see the title text)
-
-- more information in the link
-(https://en.wikipedia.org/wiki/Markdown#targetText=Markdown%20is%20a%20lightweight%20markup%20language%20with%20plain%20text%20formatting%20syntax.)
+![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwidx5Kx9ffkAhXIIlAKHU6SDYcQjhx6BAgBEAI&url=https%3A%2F%2Fblog.knoldus.com%2Flearning-markdown%2F&psig=AOvVaw2n8YHcZREWXkjGNllflBAS&ust=1569910795231649)
